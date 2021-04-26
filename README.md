@@ -18,9 +18,23 @@
 
 <div>
 
-This repository contains information about machine learning resources (such as summer schools, short courses, webinars, books and workshops) broadly relevant to Earth Sciences. 
+This repository contains information about machine learning resources (such as summer schools, short courses, webinars, conferences and workshops) broadly relevant to Earth Sciences. 
 
 If you have any comments or suggestions for additions or improvements for this repository, submit an issue or a pull request. If you can’t contribute on GitHub, [send me an email](mailto:javedali28@gmail.com). 
+
+
+---
+
+# Content
+
+* [Workshops](#workshops)
+* [Summer schools](#summer-schools)
+* [Short courses](#short-courses)
+* [Webinars](#webinars)
+* [Resources from conferences](#Resources-from-conferences)
+* [Tutorials](#Tutorials)
+* [Papers on Machine Learning Applications to Earth Sciences](#Papers-on-Machine-Learning-Applications-to-Earth-Sciences)
+* [Datasets](#Datasets)
 
 
 ---
@@ -54,9 +68,42 @@ If you have any comments or suggestions for additions or improvements for this r
 
 </br>
 
-# Webinars
+## Webinars
 
 - US CLIVAR Climate Variability and Predictability Program: Data Science webinar series ([Link](https://usclivar.org/working-groups/data-science-working-group-webinar-series))
  
 - Helmholtz-Zentrum Geesthacht Machine Learning seminars with connections to Earth science, climate and weather and materials science ([Link](http://m-dml.org/seminar.html))
+
+</br>
+
+## Resources from conferences
+
+- 20th Conference on Artificial Intelligence for Environmental Science ([Link](https://ams.confex.com/ams/101ANNUAL/meetingapp.cgi/Program/1505)) 
+
+- 19th Conference on Artificial Intelligence for Environmental Science ([Link](https://ams.confex.com/ams/2020Annual/meetingapp.cgi/Program/1411))
+
+</br>
+
+## Tutorials
+
+- Scikit-learn: Machine Learning in Python ([Link](https://scikit-learn.org/stable/index.html))
+
+- Awesome Earth AI GitHub: A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers. ([Link](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence))
+
+- EarthML: Machine learning and visualization in Python for Earth science ([Link](http://earthml.holoviz.org/))
+
+</br>
+
+## Papers on Machine Learning Applications to Earth Sciences
+
+- Machine learning and artificial intelligence to aid climate change research and preparedness ([Link](https://iopscience.iop.org/article/10.1088/1748-9326/ab4e55)) 
+
+- Papers on causal discovery with open codes ([Link](https://paperswithcode.com/task/causal-discovery))
+
+</br>
+
+## Datasets
+
+- Weather and climate datasets for AI research ([Link](http://mldata.pangeo.io/)) 
+
 
