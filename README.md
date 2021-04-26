@@ -25,7 +25,7 @@ If you have any comments or suggestions for additions or improvements for this r
 
 ---
 
-# Content
+## Content
 
 * [Workshops](#workshops)
 * [Summer schools](#summer-schools)
@@ -64,6 +64,11 @@ If you have any comments or suggestions for additions or improvements for this r
 - CIRA Short Course On Machine Learning For Weather And Climate ([Link](https://docs.google.com/document/d/1SPNxZrbHMaIEaS2dbntDow9x_tgSuFTUTOugfa2NuRo/edit))
 
 - AMS 2021 short course on Machine Learning in Python for Environmental Science Problems ([Link](https://sites.google.com/view/amsai2021shortcourse/home))
+
+- AI, Ethics, and Geoethics: An asynchronous Computer Science course (CS 5970) offered by University of Oklahoma – Norman ([Link](https://www.ai2es.org/products/cs-5970/)) 
+
+- Supervised Machine Learning: Case Studies in R ([Link](https://github.com/juliasilge/supervised-ML-case-studies-course))
+
 
 
 </br>
