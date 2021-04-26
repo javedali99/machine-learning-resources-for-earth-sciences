@@ -7,7 +7,6 @@
  <a href="https://javedali.net"><img src="https://img.shields.io/badge/Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="LinkedIn@javedali"></a>
 </p>
 
-</br>
 
 # Machine learning resources for Earth Sciences
 
