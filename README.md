@@ -1,5 +1,3 @@
-# Machine learning resources for Earth Sciences
-
 <!--# Python Resources for Earth Sciences-->
 </br>
  <p align="center">
@@ -10,6 +8,8 @@
 </p>
 
 </br>
+
+# Machine learning resources for Earth Sciences
 
 <!--
 <p align="center">
@@ -26,7 +26,7 @@ If you have any comments or suggestions for additions or improvements for this r
 
 ---
 
-# Workshops
+## Workshops
 
 - Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling (2021) ([Link](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling))
 
@@ -40,13 +40,13 @@ If you have any comments or suggestions for additions or improvements for this r
 
 </br>
 
-# Summer Schools
+## Summer Schools
 
 - NCAR Summer school (2020) Artificial Intelligence for Earth System Science (AI4ESS) Summer School ([Link](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school))
 
 </br>
 
-# Short Courses
+## Short Courses
 
 - CIRA Short Course On Machine Learning For Weather And Climate ([Link](https://docs.google.com/document/d/1SPNxZrbHMaIEaS2dbntDow9x_tgSuFTUTOugfa2NuRo/edit))
 
