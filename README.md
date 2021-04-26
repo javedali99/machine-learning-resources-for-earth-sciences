@@ -8,7 +8,7 @@
 </p>
 
 
-# Machine learning resources for Earth Sciences
+# Machine Learning Resources for Earth Sciences
 
 <!--
 <p align="center">
