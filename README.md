@@ -49,6 +49,8 @@ If you have any comments or suggestions for additions or improvements for this r
 
 - 2nd NOAA Workshop on Leveraging AI in Environmental Sciences ([Link](https://www.star.nesdis.noaa.gov/star/meeting_2020AIWorkshop_tutorials.php)) 
 
+- NeurIPS 2020 Workshop: AI for Earth Sciences ([Link](https://neurips.cc/virtual/2020/protected/workshop_16105.html))
+
 
 
 </br>
