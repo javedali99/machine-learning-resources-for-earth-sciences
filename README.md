@@ -18,7 +18,7 @@
 
 <div>
 
-This repository contains information about machine learning resources (such as summer schools, short courses, webinars, conferences and workshops) broadly relevant to Earth Sciences. If you find it useful, please give a star :star:.
+This repository contains information about machine learning resources (such as summer schools, courses, webinars, conferences and workshops) broadly relevant to Earth Sciences. If you find it useful, please give a star :star:.
 
 If you have any comments or suggestions for additions or improvements for this repository, submit an issue or a pull request. If you can’t contribute on GitHub, [send me an email](mailto:javedali28@gmail.com). 
 
@@ -29,7 +29,7 @@ If you have any comments or suggestions for additions or improvements for this r
 
 * [Workshops](#workshops)
 * [Summer schools](#summer-schools)
-* [Short courses](#short-courses)
+* [Courses](#courses)
 * [Webinars](#webinars)
 * [Resources from conferences](#Resources-from-conferences)
 * [Tutorials](#Tutorials)
@@ -61,7 +61,7 @@ If you have any comments or suggestions for additions or improvements for this r
 
 </br>
 
-## Short Courses
+## Courses
 
 - CIRA Short Course On Machine Learning For Weather And Climate ([Link](https://docs.google.com/document/d/1SPNxZrbHMaIEaS2dbntDow9x_tgSuFTUTOugfa2NuRo/edit))
 
