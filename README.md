@@ -71,6 +71,8 @@ If you have any comments or suggestions for additions or improvements for this r
 
 - Supervised Machine Learning: Case Studies in R ([Link](https://github.com/juliasilge/supervised-ML-case-studies-course))
 
+- An Introduction to Earth and Environmental Data Science ([Link](https://earth-env-data-science.github.io/intro))
+
 
 
 </br>
