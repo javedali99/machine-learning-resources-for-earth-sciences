@@ -18,7 +18,9 @@
 
 <div>
 
-This repository contains information about machine learning resources (such as summer schools, courses, webinars, conferences and workshops) broadly relevant to Earth Sciences. If you find it useful, please give a star :star:.
+This repository contains information about machine learning resources (such as summer schools, courses, webinars, conferences and workshops) broadly relevant to Earth Sciences. 
+ 
+If you find these resources useful, please give this repository a star :star:.
 
 If you have any comments or suggestions for additions or improvements for this repository, submit an issue or a pull request. If you can’t contribute on GitHub, [send me an email](mailto:javedali28@gmail.com). 
 
