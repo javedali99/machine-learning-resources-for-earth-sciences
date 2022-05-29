@@ -103,6 +103,10 @@ If you have any comments or suggestions for additions or improvements for this r
 
 - EarthML: Machine learning and visualization in Python for Earth science ([Link](http://earthml.holoviz.org/))
 
+- Notebook tutorials demonstrating advanced techniques for use of deep learning with TensorFlow and earth observation data. ([Link](https://github.com/developmentseed/tensorflow-eo-training))
+
+- Satellite Machine Learning Training Manual ([Link](https://developmentseed.org/sat-ml-training/))
+
 </br>
 
 ## Papers on Machine Learning Applications to Earth Sciences
