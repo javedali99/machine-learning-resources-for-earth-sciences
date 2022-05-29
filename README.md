@@ -52,6 +52,8 @@ If you have any comments or suggestions for additions or improvements for this r
 - 2nd NOAA Workshop on Leveraging AI in Environmental Sciences ([Link](https://www.star.nesdis.noaa.gov/star/meeting_2020AIWorkshop_tutorials.php)) 
 
 - NeurIPS 2020 Workshop: AI for Earth Sciences ([Link](https://neurips.cc/virtual/2020/protected/workshop_16105.html))
+ 
+- Machine Learning for Earth Observation Training of Trainers Bootcamp ([Link](https://github.com/RadiantMLHub/ml4eo-bootcamp-2021))
 
 
 
@@ -74,6 +76,7 @@ If you have any comments or suggestions for additions or improvements for this r
 - Supervised Machine Learning: Case Studies in R ([Link](https://github.com/juliasilge/supervised-ML-case-studies-course))
 
 - An Introduction to Earth and Environmental Data Science ([Link](https://earth-env-data-science.github.io/intro))
+
 
 
 
@@ -106,6 +109,8 @@ If you have any comments or suggestions for additions or improvements for this r
 - Notebook tutorials demonstrating advanced techniques for use of deep learning with TensorFlow and earth observation data. ([Link](https://github.com/developmentseed/tensorflow-eo-training))
 
 - Satellite Machine Learning Training Manual ([Link](https://developmentseed.org/sat-ml-training/))
+
+- A Machine Learning Pipeline for Climate Science ([Link](https://github.com/ml-clim/drought-prediction))
 
 </br>
 
